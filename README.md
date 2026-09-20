@@ -1,2 +1,1 @@
 # aura-player
-aura-player
